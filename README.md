@@ -1,4 +1,4 @@
-#**Sistema Inteligente para Detección de Fallos en Rodamientos**
+# **Sistema Inteligente para Detección de Fallos en Rodamientos**
 Desarrollado por: 
 - Felipe Idárraga Quintero
 - Julian Felipe Gutierrez Ramirez
