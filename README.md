@@ -24,10 +24,12 @@ El proyecto incluye el flujo completo de:
 Además, se desarrolló una interfaz en Streamlit que permite a usuarios no técnicos realizar diagnósticos en tiempo real.
 
 ## **Estructura del Repositorio**
+'''bash
 ├── FProyecto_Final_TAM.ipynb     # Desarrollo completo del modelo
 ├── Dashboard_PFTAM.ipynb         # Dashboard interactivo para probar los modelos
 ├── Proyecto_Final_TAM.pdf        # Documentación completa del proyecto
 └── README.md
+'''
 
 ## **1. FProyecto_Final_TAM.ipynb**
 Contiene todo el proceso de desarrollo:
